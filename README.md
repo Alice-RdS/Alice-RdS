@@ -19,9 +19,7 @@
     Working in Eventim Brasil<br>
     Learning Python on Alura<br>
     Studying IT at University (UFF)<br></p>
-  </div><br>
-
-  
+  </div><br>  
   
 ## Contact
 <div> 
