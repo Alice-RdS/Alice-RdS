@@ -1,4 +1,4 @@
-## Hello! I'm Alice and I'm looking for a career transition for IT.<br>
+## Hello! I'm Alice and I'm transitioning my career.<br>
 
 <div align="center">
   <a href="https://github.com/Alice-RdS">
