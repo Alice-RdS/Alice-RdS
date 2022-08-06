@@ -18,7 +18,7 @@
   <p>I'm currently:<br>
     Working in Eventim Brasil<br>
     Learning Python on Alura<br>
-    Studying IT at University (UFF)<br></p>
+    Studying IT at UFF<br></p>
   </div><br>  
   
 ## Contact
